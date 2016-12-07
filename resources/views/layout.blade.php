@@ -32,7 +32,7 @@
           href="{!! asset('public/images/ico/apple-touch-icon-72-precomposed.png') !!}">
     <link rel="apple-touch-icon-precomposed"
           href="{!! asset('public/images/ico/apple-touch-icon-57-precomposed.png') !!}">
-</head><!--/head-->
+</head><!--/head--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>
 
 <body>
 <header id="header"><!--header-->
