@@ -51,7 +51,7 @@
                         <ul class="nav navbar-nav">
                             <li>
                                 <div class="input-group">
-                                    <input type="search" class="form-control" placeholder="Search" id="key_search">
+                                    <input type="search" class="form-control" placeholder="Tìm kiếm" id="key_search">
                                     <div class="input-group-btn">
                                         <button class="btn btn-default" type="button"><i
                                                     class="glyphicon glyphicon-search"></i></button>
